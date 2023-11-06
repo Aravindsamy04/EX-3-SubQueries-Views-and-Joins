@@ -205,3 +205,4 @@ INSERT INTO Salesman1 (salesman_id, name, city, commission) VALUES(5003, 'Lauson
 ### RIGHT JOIN :
 ![270773439-43cc7093-35af-4c4b-8854-068a0f0b34d1](https://github.com/Aravindsamy04/EX-3-SubQueries-Views-and-Joins/assets/113497037/cf66235b-d197-4460-8f04-96558bf05efd)
 
+### RESULT
